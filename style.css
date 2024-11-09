@@ -16,7 +16,7 @@ body{
 .big-container{
  margin:3.5rem auto;
  padding:2rem;
- scale:0.7;
+ /* scale:0.7; */
  width: 100%;
  max-width: 1440px; 
  background-color:hsl(0, 0%, 100%);
