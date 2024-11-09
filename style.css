@@ -8,13 +8,13 @@
 .attribution a { color: hsl(229, 48%, 5%); }
 body{
   font-family: "Barlow Semi Condensed", sans-serif;
-  /* display: flex;
+  display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center; */
+  align-items: center;
 }
 .big-container{
- margin:2rem auto;
+ margin:2.5rem auto;
  padding:2rem;
  scale:0.6;
  width: 100%;
